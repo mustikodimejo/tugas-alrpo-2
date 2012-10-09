@@ -1,4 +1,4 @@
-tugas-alrpo-2
+Tugas Pratikum Algoritma dan Struktur 2
 =============
 
-Tugas Alpro 2
+Sebelum submit nama class diganti dengan `Main`
